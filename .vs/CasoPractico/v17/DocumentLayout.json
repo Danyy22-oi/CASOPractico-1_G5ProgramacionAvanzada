@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CasoPractico#1PrograAvanzada_G5V\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\models\\profesormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\models\\profesormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\models\\estudiantemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\models\\estudiantemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\models\\cursomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\models\\cursomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|c:\\casopractico#1prograavanzada_g5v\\casopractico\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF912D37-74C8-4137-A23C-5E648914D960}|CasoPractico\\CasoPractico.csproj|solutionrelative:casopractico\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Views\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Views\\Edit.cshtml",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Views\\Edit.cshtml",
+              "RelativeToolTip": "CasoPractico\\Pages\\Views\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:23:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Views\\Create.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Views\\Create.cshtml",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Views\\Create.cshtml",
+              "RelativeToolTip": "CasoPractico\\Pages\\Views\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:23:00.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Views\\Index.cshtml",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Views\\Index.cshtml",
+              "RelativeToolTip": "CasoPractico\\Pages\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:22:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "CasoPractico\\Pages\\Controllers\\ProfesorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:19:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "CasoPractico\\Pages\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:19:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "CasoPractico\\Pages\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:19:22.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfesorModel.cs",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Models\\ProfesorModel.cs",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Models\\ProfesorModel.cs",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Models\\ProfesorModel.cs",
+              "RelativeToolTip": "CasoPractico\\Pages\\Models\\ProfesorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:17:41.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstudianteModel.cs",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Models\\EstudianteModel.cs",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Models\\EstudianteModel.cs",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Models\\EstudianteModel.cs",
+              "RelativeToolTip": "CasoPractico\\Pages\\Models\\EstudianteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:16:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CursoModel.cs",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Models\\CursoModel.cs",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Models\\CursoModel.cs",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Models\\CursoModel.cs",
+              "RelativeToolTip": "CasoPractico\\Pages\\Models\\CursoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:09:39.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CasoPractico\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:06:02.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CasoPractico\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\CasoPractico#1PrograAvanzada_G5V\\CasoPractico\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CasoPractico\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:04:44.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
